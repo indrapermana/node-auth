@@ -14,6 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 * Clone this project
+* Create new folder called uploads on the root project
 * run below command in your project folder using cmd or terminal. This command is for installing all dependencies that we need. 
 ```
 npm install
